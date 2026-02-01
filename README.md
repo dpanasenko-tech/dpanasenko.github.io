@@ -68,6 +68,5 @@ ChatGPT.\
 
 ## Контакт
 
-Telegram: @...\
-LinkedIn: linkedin.com/in/denpanasenko
+Telegram: @denis_lets_talk
 
