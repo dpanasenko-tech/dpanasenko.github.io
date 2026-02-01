@@ -1,4 +1,8 @@
-# dpanasenko-tech.github.io
+# Денис Панасенко
+<p align="center">
+  <img src="me.jpg" alt="Denis" width="240">
+</p>
+
 # Помогаю B2B-командам и контент-агентствам масштабировать short-form видео без роста команды и хаоса в продакшне
 
 13 лет в enterprise и B2B-продуктах.\
