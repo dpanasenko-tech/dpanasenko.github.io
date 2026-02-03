@@ -1,5 +1,9 @@
-# Денис Панасенко
+
 <img align="right" width="200" src="https://raw.githubusercontent.com/dpanasenko-tech/dpanasenko-tech.github.io/refs/heads/main/me-suit.png">
+
+# Денис Панасенко
+
+<br clear="right"/>
 
 # Помогаю B2B-командам и контент-агентствам масштабировать short-form видео без роста команды и хаоса в продакшне
 
@@ -7,7 +11,7 @@
 Ex-Senior Product Owner Beeline B2B.  
 Сейчас строю AI-конвейеры для предсказуемого производства видео.
 
-<br clear="right"/>
+
 
 ------------------------------------------------------------------------
 
